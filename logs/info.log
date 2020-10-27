@@ -1,0 +1,202 @@
+10:41:22.087 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 9632 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:41:22.095 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:41:23.081 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:41:23.082 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:41:23.083 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:41:23.165 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:41:23.508 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+10:42:28.989 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 26440 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:42:29.001 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:42:30.028 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:42:30.030 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:42:30.031 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:42:30.110 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:42:30.644 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:42:30.666 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+10:42:30.681 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+10:44:11.945 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 18156 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:44:11.951 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:44:12.874 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:44:12.875 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:44:12.875 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:44:12.943 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:44:13.479 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:44:13.848 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:44:13.869 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 2.46 seconds (JVM running for 3.562)
+10:44:25.296 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 2352 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:44:25.304 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:44:26.264 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:44:26.264 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:44:26.265 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:44:26.334 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:44:26.844 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:44:27.264 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:44:27.291 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 2.437 seconds (JVM running for 3.553)
+10:44:30.760 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:44:56.039 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 22620 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:44:56.051 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:44:56.991 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:44:56.991 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:44:56.992 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:44:57.060 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:44:57.611 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:44:57.985 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:44:58.013 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 2.432 seconds (JVM running for 3.591)
+10:45:00.170 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:46:17.453 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 15656 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:46:17.460 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:46:18.343 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:46:18.344 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:46:18.344 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:46:18.412 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:46:18.905 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:46:18.932 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+10:46:18.945 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+10:47:55.971 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 10552 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:47:55.978 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:47:56.758 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:47:56.758 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:47:56.759 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:47:56.817 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:47:57.226 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:47:57.583 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:47:57.604 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 2.031 seconds (JVM running for 2.956)
+10:48:01.907 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:53:03.192 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 25612 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:53:03.199 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:53:03.953 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:53:03.953 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:53:03.954 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:53:04.012 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:53:04.449 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:53:04.756 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:53:04.785 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 1.984 seconds (JVM running for 2.921)
+10:53:07.004 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:54:21.118 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 15976 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:54:21.124 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:54:21.987 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:54:21.987 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:54:21.987 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:54:22.053 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:54:22.560 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:54:23.006 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:54:23.036 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 2.279 seconds (JVM running for 3.277)
+10:54:24.394 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:56:49.680 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 1992 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:56:49.686 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:56:50.515 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:56:50.515 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:56:50.516 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:56:50.577 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:56:51.052 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:56:51.393 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:56:51.424 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 2.162 seconds (JVM running for 3.116)
+10:56:51.682 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:57:59.153 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 24948 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:57:59.161 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:57:59.922 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:57:59.922 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:57:59.923 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:57:59.988 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:58:00.107 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+10:59:25.971 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 20768 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+10:59:25.978 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+10:59:26.735 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:59:26.735 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:59:26.736 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+10:59:26.802 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:59:27.223 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:59:27.518 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:59:27.546 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 1.94 seconds (JVM running for 2.835)
+10:59:33.199 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:00:17.601 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 20016 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:00:17.608 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:00:18.381 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:00:18.381 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:00:18.381 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:00:18.446 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:00:19.037 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:00:19.059 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 1.867 seconds (JVM running for 2.757)
+11:00:21.195 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:00:21.231 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:00:21.337 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:01:08.685 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 25488 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:01:08.692 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:01:09.472 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:01:09.472 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:01:09.472 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:01:09.529 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:01:10.119 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:01:10.141 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 1.821 seconds (JVM running for 2.715)
+11:01:11.605 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:01:11.641 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:01:11.719 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:01:40.120 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 3740 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:01:40.128 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:01:40.857 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:01:40.858 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:01:40.858 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:01:40.927 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:01:41.582 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:01:41.605 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 1.851 seconds (JVM running for 2.757)
+11:01:43.544 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:01:43.579 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:01:43.674 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:02:17.286 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 20944 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:02:17.292 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:02:18.056 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:02:18.057 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:02:18.057 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:02:18.125 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:02:18.762 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:02:18.784 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 1.87 seconds (JVM running for 2.784)
+11:02:20.778 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:02:20.806 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:02:20.903 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:03:14.440 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 21288 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:03:14.447 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:03:15.506 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:03:15.506 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:03:15.506 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:03:15.572 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:03:16.175 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:03:16.196 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 2.14 seconds (JVM running for 3.239)
+11:03:17.668 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:03:17.700 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:03:17.789 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:05:13.435 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 26904 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:05:13.442 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:05:14.262 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:05:14.263 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:05:14.263 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:05:14.322 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:05:14.922 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:05:14.943 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 1.891 seconds (JVM running for 2.807)
+11:05:23.632 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:05:23.660 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:05:23.752 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:08:34.415 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 15544 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:08:34.423 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:08:35.153 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:08:35.154 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:08:35.154 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:08:35.211 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:08:35.519 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+11:10:14.481 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 27008 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:10:14.487 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:10:15.238 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:10:15.238 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:10:15.239 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:10:15.309 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:10:15.610 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+11:12:44.556 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 30416 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:12:44.567 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:12:45.296 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:12:45.297 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:12:45.297 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:12:45.354 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:12:45.946 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:12:45.967 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 1.785 seconds (JVM running for 2.686)
+11:12:48.508 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:12:48.545 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:12:48.624 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

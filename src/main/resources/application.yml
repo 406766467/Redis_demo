@@ -1,0 +1,20 @@
+spring:
+  redis:
+    database: 0
+    host: 192.168.80.128
+    port: 6379
+    password:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test4172?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&useSSL=false
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.mysql.cj.jdbc.MysqlDataSource
+mybatis:
+  typeAliasesPackage: com.example.redisdemo.domain
+  mapperLocations: classpath:/com/example/redisdemo/mapper/*.xml
+  mapperScanPackage: com.example.redisdemo.mapper
+  configuration:
+    cache-enabled: true  #开启二级缓存
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl  #日志打印
+

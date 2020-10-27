@@ -1,0 +1,40 @@
+11:12:44.556 [main] INFO  com.example.redisdemo.RedisdemoApplication - Starting RedisdemoApplication on DESKTOP-953RI78 with PID 30416 (E:\小滴课堂项目\redisdemo\target\classes started by 张復华 in E:\小滴课堂项目\redisdemo)
+11:12:44.567 [main] INFO  com.example.redisdemo.RedisdemoApplication - No active profile set, falling back to default profiles: default
+11:12:45.296 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:12:45.297 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:12:45.297 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+11:12:45.354 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:12:45.618 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+11:12:45.651 [main] DEBUG org.apache.ibatis.io.VFS - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+11:12:45.652 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.example.redisdemo.mapper.UserMapper matches criteria [is assignable to Object]
+11:12:45.675 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+11:12:45.946 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:12:45.967 [main] INFO  com.example.redisdemo.RedisdemoApplication - Started RedisdemoApplication in 1.785 seconds (JVM running for 2.686)
+11:12:48.508 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:12:48.545 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:12:48.624 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:12:48.630 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==>  Preparing: select id,user_name as userName from sys_user where id=? 
+11:12:48.645 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==> Parameters: 2(String)
+11:12:48.659 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==    Columns: id, userName
+11:12:48.659 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==        Row: 2, 张智杰
+11:12:48.661 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - <==      Total: 1
+11:12:48.665 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==>  Preparing: select id,user_name as userName from sys_user where id=? 
+11:12:48.665 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==> Parameters: 2(String)
+11:12:48.666 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==    Columns: id, userName
+11:12:48.666 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==        Row: 2, 张智杰
+11:12:48.666 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - <==      Total: 1
+11:12:48.666 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==>  Preparing: select id,user_name as userName from sys_user where id=? 
+11:12:48.666 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==> Parameters: 2(String)
+11:12:48.667 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==    Columns: id, userName
+11:12:48.667 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==        Row: 2, 张智杰
+11:12:48.667 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - <==      Total: 1
+11:12:48.667 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==>  Preparing: select id,user_name as userName from sys_user where id=? 
+11:12:48.667 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==> Parameters: 2(String)
+11:12:48.667 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==    Columns: id, userName
+11:12:48.667 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==        Row: 2, 张智杰
+11:12:48.667 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - <==      Total: 1
+11:12:48.667 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==>  Preparing: select id,user_name as userName from sys_user where id=? 
+11:12:48.667 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - ==> Parameters: 2(String)
+11:12:48.668 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==    Columns: id, userName
+11:12:48.668 [http-nio-8080-exec-1] TRACE com.example.redisdemo.mapper.UserMapper.find - <==        Row: 2, 张智杰
+11:12:48.668 [http-nio-8080-exec-1] DEBUG com.example.redisdemo.mapper.UserMapper.find - <==      Total: 1
